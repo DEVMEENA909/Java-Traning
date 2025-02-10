@@ -18,7 +18,7 @@ public class day2{
 // 				System.out.println("Name" +name);
 // 				System.out.println("Cgpa" +cgpa);
 // 				System.out.println("Roll" +roll);
-U -// 			}
+// 			}
 // }
 // public class day2{
 // 		public static void main(String args[]){
